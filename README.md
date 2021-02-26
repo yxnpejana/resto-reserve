@@ -1,4 +1,4 @@
-# Sprobe Laravel Vue Boilerplate
+# Laravel Vue
 A base template for VueJS with backend API implementation using `Laravel 5.8.37` preconfigured `laravel/passport` authentication.
 
 ## Specifications / Infrastructure Information
